@@ -1,0 +1,36 @@
+package com;
+
+
+public class Test {
+	
+	public static void main(String[] args) {
+		
+		
+		String name = Thread.currentThread().getName();
+		System.out.println(name);
+		MyThread1 mythread1 = new MyThread1();
+		MyThread2 mythread2 = new Mythread2();
+		
+		mythread1.start(); //our thread register in the thread scheduler
+		mythread2.start();
+		sayHi();
+//		sayBye();
+		
+	}
+	
+	static void sayHi() {
+		
+		for(int i =1 ; i<=5; i++) {
+			System.out.println("Hii..");
+		}
+		
+	}
+	static void sayBye() {
+		
+		for(int i =1 ; i<=5; i++) {
+			System.out.println("Byee..");
+		}
+		
+	}
+	
+}

@@ -1,0 +1,17 @@
+package com;
+
+public class MyThread1 extends Thread{
+	
+	
+	@Override
+	public void run() {
+		
+		String name = Thread.currentThread().getName();
+		System.out.println(name);
+		
+		for (int i =1 ; i<=10;i++) {
+			System.out.println("Thread1");
+		}
+		
+	}
+}
