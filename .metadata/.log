@@ -144,3 +144,76 @@ Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse
 
 !ENTRY ch.qos.logback.classic 1 0 2025-05-27 19:27:50.676
 !MESSAGE Logback config file: /Users/harshavardhanreddythotli/eclipse-workspace/Java_Programs/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+!SESSION 2025-05-29 11:29:31.206 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=24.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-29 11:29:32.218
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-29 11:30:08.098
+!MESSAGE Logback config file: /Users/harshavardhanreddythotli/eclipse-workspace/Java_Programs/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.equinox.p2.operations 2 0 2025-05-29 15:56:44.130
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2025-05-29 15:56:44.130
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2025-05-29 15:56:44.130
+!MESSAGE "Apache Commons Codec" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2025-05-29 15:56:44.130
+!MESSAGE "Apache Ant" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2025-05-29 15:56:44.130
+!MESSAGE "slf4j-api" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2025-05-29 15:56:44.130
+!MESSAGE "jna" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2025-05-29 15:56:44.130
+!MESSAGE "OSGi System Bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10007 2025-05-29 15:56:44.130
+!MESSAGE "Apache Commons Codec" cannot be fully uninstalled because other installed software requires it.  The parts that are not required will be uninstalled.
+
+!ENTRY org.eclipse.equinox.p2.operations 2 0 2025-05-29 15:56:44.136
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2025-05-29 15:56:44.136
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2025-05-29 15:56:44.136
+!MESSAGE "Apache Commons Codec" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2025-05-29 15:56:44.136
+!MESSAGE "Apache Ant" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2025-05-29 15:56:44.136
+!MESSAGE "slf4j-api" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2025-05-29 15:56:44.136
+!MESSAGE "jna" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2025-05-29 15:56:44.136
+!MESSAGE "OSGi System Bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10007 2025-05-29 15:56:44.136
+!MESSAGE "Apache Commons Codec" cannot be fully uninstalled because other installed software requires it.  The parts that are not required will be uninstalled.
+!SESSION 2025-05-29 15:59:23.572 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=24.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring -data file:/Users/harshavardhanreddythotli/eclipse-workspace/Java_Programs/
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-29 15:59:24.990
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-29 15:59:26.303
+!MESSAGE Logback config file: /Users/harshavardhanreddythotli/eclipse-workspace/Java_Programs/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+!SESSION 2025-05-29 21:17:34.788 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=24.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-29 21:17:35.808
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-29 21:17:40.192
+!MESSAGE Logback config file: /Users/harshavardhanreddythotli/eclipse-workspace/Java_Programs/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
