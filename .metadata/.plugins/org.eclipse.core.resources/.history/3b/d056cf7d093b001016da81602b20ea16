@@ -1,0 +1,43 @@
+package com;
+
+public class MainThread {
+	
+	Counter counter = new Counter();
+
+	public static void main(String[] args) {
+		Thread t1 = new Thread();
+		Thread t2 = new Thread();
+		
+		t1.start();
+		t2.start();
+		
+
+	}
+
+}
+
+class Thread1 extends Thread {
+	
+	
+	public void run() {
+		
+		for(int i = 1;i<=1000;i++) {
+			MainThread mainThread = new MainThread();
+			mainThread.counter.increment();
+		}
+		
+		
+	}
+}
+
+class Thread2 extends Thread {
+	
+	public void run() {
+		
+		for(int i = 1;i<=1000;i++) {
+			MainThread mainThread = new MainThread();
+			mainThread.counter.increment();
+		}
+		
+	}
+}
