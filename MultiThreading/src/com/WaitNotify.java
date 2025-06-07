@@ -8,7 +8,7 @@ public class WaitNotify {
 		Thread5 t5 = new Thread5(); //New
 		t5.start(); //Runnable
 		synchronized(t5){
-			t5.wait();  //Blocked - if want to use wait(), first we need to acquire the lock for the resource
+			t5.wait();  //Blocked - if we want to use wait(), first we need to acquire the lock for the resource
 			System.out.println(t5.count);
 
 		}

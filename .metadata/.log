@@ -217,3 +217,60 @@ Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse
 
 !ENTRY ch.qos.logback.classic 1 0 2025-05-29 21:17:40.192
 !MESSAGE Logback config file: /Users/harshavardhanreddythotli/eclipse-workspace/Java_Programs/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.core.resources 2 2 2025-05-30 19:47:38.427
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2025-05-30 19:47:38.427
+!MESSAGE The project description file (.project) for 'String' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SESSION 2025-06-01 11:16:32.548 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=24.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-01 11:16:33.784
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-01 11:17:00.451
+!MESSAGE Logback config file: /Users/harshavardhanreddythotli/eclipse-workspace/Java_Programs/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+!SESSION 2025-06-02 19:41:37.841 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=24.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-02 19:41:39.029
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-02 19:41:50.103
+!MESSAGE Logback config file: /Users/harshavardhanreddythotli/eclipse-workspace/Java_Programs/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+!SESSION 2025-06-02 21:08:58.203 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=24.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-02 21:08:58.945
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-02 21:09:05.094
+!MESSAGE Logback config file: /Users/harshavardhanreddythotli/eclipse-workspace/Java_Programs/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+!SESSION 2025-06-06 12:45:29.728 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=24.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/harshavardhanreddythotli/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-06 12:45:31.195
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-06 12:45:46.628
+!MESSAGE Logback config file: /Users/harshavardhanreddythotli/eclipse-workspace/Java_Programs/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
